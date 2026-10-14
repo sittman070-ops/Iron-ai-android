@@ -1,0 +1,2 @@
+# Add your Gemini API key for local testing only. Do not commit/share a real key.
+GEMINI_API_KEY=PASTE_YOUR_GEMINI_API_KEY_HERE
